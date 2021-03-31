@@ -1,10 +1,10 @@
 # PerfectPet
 
-#Description
+A Perfect Pet
 
 A three-question quiz with extra features.
 
-#Instructions
+Instructions
 
 1.Download files
 2.Open in Visual Studio Code
