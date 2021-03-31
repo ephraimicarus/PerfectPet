@@ -1,0 +1,45 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.action-button-main-wrapper {
+  width: 100%;
+  height: 0px;
+  justify-content: center;
+  text-align: center;
+}
+.action-button-main {
+  display: inline-block;
+  margin: 30px;
+}
+.question-wrapper {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+.question {
+  height: 60px;
+}
+
+.answer-wrapper {
+  width: 60%;
+  margin-left: 20%;
+  height: 30px;
+  justify-content: center;
+  text-align: center;
+}
+.answer {
+  width: 100%;
+  display: flex;
+}
+
+.result-wrapper {
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+.result {
+  height: auto;
+}
